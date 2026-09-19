@@ -2,7 +2,7 @@ import React from "react";
 
 function Hero() {
   return (
-    <div className="w-full mx-auto mt-30">
+    <div className="w-full mx-auto mt-40 h-160">
       <div className="flex justify-center flex-col items-center py-4 gap-4">
         <p className="text-[#00df9a] text-1xl">GROWING WITH DATA ANALYTICS </p>
         <h1 className="text-white text-7xl font-extrabold">Grow With Data</h1>
