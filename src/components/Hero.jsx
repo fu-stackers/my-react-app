@@ -10,7 +10,7 @@ function Hero() {
           Fast, flexible Finacing for
         </h2>
         <p className="text-white">
-          monitor you data analytics to increase revenue fro,BTB ,BTC and Saas{" "}
+          monitor you data analytics to increase revenue fro,BTB ,BTC and Saas
           platform
         </p>
         <p className="font-medium rounded-[8px] bg-emerald-300 px-6 py-1.5 text-black">

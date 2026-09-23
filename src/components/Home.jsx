@@ -2,13 +2,9 @@ import React from "react";
 import reactimage from "../assets/reactimage.jpg";
 function Home() {
   return (
-    <div className="bg-white flex  h-150 w-lvw justify-center items-center px-4">
+    <div className="bg-white flex  h-150  justify-center items-center">
       <div className="w-1/2 flex items-center justify-center p-16">
-        <img
-          src={reactimage}
-          alt="reactimage"
-          className="object-contain"
-        />
+        <img src={reactimage} alt="reactimage" className="object-contain" />
       </div>
       <div className="w-1/2 flex justify-center flex-col gap-4">
         <p className="text-[#00df9a]">DATA ANALYTICS DASHBOARD</p>
